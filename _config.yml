@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Energetic and Aweseome Software Engineer</h1>
-     <p>developing in AnjularJS and Firebase</p>
+     <h1>Software Engineer and Entrepreneur</h1>
+     <p>Dh Carriers - Sarai Farms - Bloc</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.

@@ -3,14 +3,21 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "img/color.png"
+
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+## Transportation
 
-Jowl sirloin doner shank flank. Leberkas ham ball tip, jowl pastrami short loin pork cow. Rump ground round chuck leberkas shank picanha bacon meatloaf filet mignon. Ball tip swine brisket jowl pig sausage corned beef leberkas pastrami porchetta kevin beef. Ground round tail cupim ribeye, landjaeger meatloaf pig prosciutto. Shank sirloin porchetta frankfurter kevin corned beef ribeye rump doner. Shankle pork loin beef prosciutto short loin venison, ribeye swine kevin pastrami landjaeger ham hock alcatra sirloin ground round.
+Since 2006, I have been working at Dh Carriers, a mid sized transportation carrier company based out of Yuba City, CA. We specialize in hauling time and temperature sensative goods up and down the West Coast. At the age of 16, I helped start up the business with my family. Troughout the years, my role with the company has evolved in various ways. Currently, I'm the VP/operations manager and  I have 25 drivers/trucks under my supervision.    
 
-Pork chop pork belly bresaola, turducken porchetta sausage cupim pork loin bacon pancetta. Meatloaf tail frankfurter pork belly chicken. Turducken pork prosciutto, pork chop hamburger spare ribs jerky salami leberkas meatball. Tenderloin porchetta strip steak jerky, spare ribs beef ribs pork chop tail short loin sausage. Doner biltong andouille ribeye corned beef. Prosciutto boudin corned beef pork loin tail, ham picanha biltong chicken alcatra. Hamburger frankfurter bacon tail jowl filet mignon rump brisket turducken.
+## Software
 
-Biltong landjaeger swine pork sausage chicken cow cupim ham hock corned beef. Salami alcatra turkey doner rump, ribeye turducken frankfurter pork loin. Alcatra fatback strip steak, frankfurter beef ribs tail pork loin. Jerky shankle filet mignon beef ribs ham, swine sausage sirloin brisket picanha alcatra bresaola.
+As far back as I can remember, I have had a passion and love for computers and technology. I had always enviosned myself one day being involved in the industry. In March 2017, I finally decided to take one step towards that vision. I enrolled at Bloc and started the software engineering course. I'm currently working with AngularJs and Firebase to make sclable and effiecnt web apps. I work on my projects during the week nights and weekends. 
 
-Short ribs ham hock jerky, sausage beef ribs shoulder beef landjaeger rump sirloin leberkas flank turkey alcatra. Andouille pancetta cupim fatback sirloin landjaeger corned beef turducken tri-tip turkey capicola spare ribs. Chuck hamburger alcatra pig tongue, filet mignon rump bresaola. Porchetta corned beef alcatra beef ribs. Ham hock boudin picanha salami tri-tip ham.
+## Farming
+
+Aside from tranportation and tech, I'm also actively assisting in managing my farming operation. I'm part owner of a 25 acre Almond orchard in Sutter, CA. It has been a great and healthy challange in taking care of the trees. Currently, in their second year, the trees are healhty and lean. 
+
+## Everything else
+
+When I'm not doing all the things above, I find myself playing basketball as often as possible. I have had a profound love for the game since childhood and played competetively till college. I also enjoy spending time withe my family and reading books.  
