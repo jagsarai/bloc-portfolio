@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlocJams
-thumbnail-path: "/img/landing.png"
+thumbnail-path: img/landing.png
 short-desctiption: BlocJams is a spotify replica for playing music.
 
 ---

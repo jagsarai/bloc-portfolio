@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/color.png"
+
 
 ---
 
@@ -18,8 +18,8 @@ As far back as I can remember, I have had a passion and love for computers and t
 
 Aside from tranportation and tech, I'm also actively assisting in managing my farming operation. I'm part owner of a 25 acre Almond orchard in Sutter, CA. It has been a great and healthy challange in taking care of the trees. Currently, in their second year, the trees are healhty and lean. 
 
-![orchard overview](/img/orchard-overview.jpg)
-![orchar closup](/img/orchard-closeup.jpg)
+![orchard overview]({{site.baseurl}}/img/orchard-overview.jpg)
+![orchar closup]({{site.baseurl}}/img/orchard-closeup.jpg)
 
 ## Everything else
 
