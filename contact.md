@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+
 ---
 
 If you would like to know more about me or have any questions, please fill out some basic information along with a short message and I will get back to you as soon as I can.
