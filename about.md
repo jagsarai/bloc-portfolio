@@ -18,6 +18,9 @@ As far back as I can remember, I have had a passion and love for computers and t
 
 Aside from tranportation and tech, I'm also actively assisting in managing my farming operation. I'm part owner of a 25 acre Almond orchard in Sutter, CA. It has been a great and healthy challange in taking care of the trees. Currently, in their second year, the trees are healhty and lean. 
 
+![orchard overview](/img/orchard-overview.jpg)
+![orchar closup](/img/orchard-closeup.jpg)
+
 ## Everything else
 
 When I'm not doing all the things above, I find myself playing basketball as often as possible. I have had a profound love for the game since childhood and played competetively till college. I also enjoy spending time withe my family and reading books.  
