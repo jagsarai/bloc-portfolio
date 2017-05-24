@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams
 thumbnail-path: img/landing.png
-short-desctiption: BlocJams is a spotify replica for playing music.
+short-description: Bloc Jams is a Spotify replica for playing music.
 
 ---
 
@@ -23,7 +23,7 @@ Creating a music site brings forth speed and efficiency challenges as reloading 
 
 ## Solution
 
-AngularJs provides the perfect solution to slow page reloads. Angular allows us to insert different pages of the site all in one place without the site reloading. Through the use of controllers, services and routes we are able to perform different actions on a single page. This helps the site feel more like a native machine app then a website thus improving the user experience. For developers, using Angular helps make our code much more modular and reusable. 
+AngularJs provides the perfect solution to slow page reloads. Angular allows us to insert different pages of the site all in one place without the site reloading. Using controllers, services and routes we can perform different actions on a single page. This helps the site feel more like a native machine app then a website thus improving the user experience. For developers, using Angular helps make our code much more modular and reusable. 
 
 In addition, Angular allows us to have two-way data binding, meaning that changes made to the model(database) would be reflected almost simultaneously in our view that the user sees. Therefore, our users can have real-time interaction with the database.
 
@@ -36,9 +36,9 @@ The use of angular within our web app gave us fantastic results, as the site was
 ![]({{site.baseurl}}/img/album.png)
 
 
->Having created individual html templates for our specific pages helped us with modularity as well as provided us with an easier and faster way of loading all of the pages in the index.html once the appropriate route was selected. For example to view the collection of albums in our site, we need to navigate to base-url/collection. Doing this the old way via static pages would cause the browser to reload and show the appropriate html and css for that page. However, with the use of templates and routes we are able to navigate without any page reload and the transition is much smoother like a native app. 
+>Having created individual html templates for our specific pages helped us with modularity as well as provided us with an easier and faster way of loading all the pages in the index.html once the appropriate route was selected. For example, to view the collection of albums in our site, we need to navigate to base-url/collection. Doing this the old way via static pages would cause the browser to reload and show the appropriate html and css for that page. However, with the use of templates and routes we can navigate without any page reload and the transition is much smoother like a native app. 
 
->The use of two-way data binding shows up in the loading of both the collection of albums as well as the list of songs in each album. By writing minimal code we are able to show the list of albums from our database in the view. 
+>The use of two-way data binding shows up in the loading of both the collection of albums as well as the list of songs in each album. By writing minimal code we can show the list of albums from our database in the view. 
 
 ```html
 <section class="album-covers container clearfix">
@@ -71,5 +71,5 @@ The use of angular within our web app gave us fantastic results, as the site was
 
 ## Conclusion 
 
-I was really happy with the way this project turned out. Angular provided me with a very effect solution to making the Bloc Jams app work like a native app. The use of routes, controller and templates made the project much easier to put together. I learned a lot about the power and versatility of angular in handling all the interfaces of the web app. Angular will continue to play a major role in my future projects and I look forward to using it again. 
+I was really happy with the way this project turned out. Angular provided me with a very effect solution to making the Bloc Jams app work like a native app. The use of routes, controller and templates made the project much easier to put together. I learned a lot about the power and versatility of angular in handling all the interfaces of the web app. Angular will continue to play a major role in my future projects and I look forward to using it again.
 
