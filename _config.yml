@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/bloc-portfolio" # the subpath of your site, e.g. /blog/ (optional)
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog/ (optional)
 url: "http://jagsarai.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
