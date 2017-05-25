@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Transportation
 
-Since 2006, I have been working at Dh Carriers, a mid sized transportation carrier company based out of Yuba City, CA. We specialize in hauling time and temperature sensative goods up and down the West Coast. At the age of 16, I helped start up the business with my family. Troughout the years, my role with the company has evolved in various ways. Currently, I'm the VP/operations manager and  I have 25 drivers/trucks under my supervision.    
+Since 2006, I have been working at Dh Carriers, a mid sized transportation carrier company based out of Yuba City, CA. We specialize in hauling time and temperature sensative goods up and down the West Coast. At the age of 16, I helped start up the business with my family. Troughout the years, my role with the company has evolved in various ways. Currently, I'm the VP/operations manager and  I have 25 drivers/trucks under my supervision.
 
 ## Software
 
@@ -23,4 +23,4 @@ Aside from tranportation and tech, I'm also actively assisting in managing my fa
 
 ## Everything else
 
-When I'm not doing all the things above, I find myself playing basketball as often as possible. I have had a profound love for the game since childhood and played competetively till college. I also enjoy spending time withe my family and reading books.  
+When I'm not doing all the things above, I find myself playing basketball as often as possible. I have had a profound love for the game since childhood and played competetively till college. I also enjoy spending time withe my family and reading books.
