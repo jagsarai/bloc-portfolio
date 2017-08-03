@@ -9,7 +9,7 @@ Modern day app building has become simpler than ever. A simple google search is 
 
 I sarted by forking a sample project from github that had the layout of a trivia game set in place. I have provided the link below.  
 
-https://github.com/alexa/skill-sample-nodejs-trivia
+<https://github.com/alexa/skill-sample-nodejs-trivia>
 
 The documentation for this repo does a great job of walking us through the setup process so I wont bore you with the details and you guys can check it out yourselves. 
 
@@ -17,6 +17,6 @@ Next, I had to come up with my idea of trivia app. For me sports debates and tir
 
 After writing the code, I uploaded it to Amazon's free cloud computing service, Lamda. This allows seemless inteaction between my code and Alexa. Now came the fun part, testing! I tested the app using a cool and awesome website that gives a vitrual Echo to test our skill on. 
 
-https://echosim.io/
+<https://echosim.io/>
 
 I have submitted my app to Amazon and it should be in the Alexa skills store soon. Well that was simple right? And really it is that simple and that is the point. What seems like a very complicated process, has been made simple largely due to Amazon's own documentation and templates that can get anyone with little programming knowlege to start building exiting and fun apps.  
