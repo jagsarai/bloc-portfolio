@@ -19,4 +19,4 @@ After writing the code, I uploaded it to Amazon's free cloud computing service, 
 
 <https://echosim.io/>
 
-I have submitted my app to Amazon and it should be in the Alexa skills store soon. Well that was simple right? And really it is that simple and that is the point. What seems like a very complicated process, has been made simple largely due to Amazon's own documentation and templates that can get anyone with little programming knowlege to start building exiting and fun apps.  
+I have submitted my app to Amazon and it should be in the Alexa skills store soon. Well that was simple right? And really it is that simple and that is the point. What seems like a very complicated process, has been made simple largely due to Amazon's own documentation and templates that can get anyone with little programming knowledge to start building exciting and fun apps.  
