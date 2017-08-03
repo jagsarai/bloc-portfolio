@@ -71,5 +71,5 @@ The use of angular within our web app gave us fantastic results, as the site was
 
 ## Conclusion 
 
-I was really happy with the way this project turned out. Angular provided me with a very effect solution to making the Bloc Jams app work like a native app. The use of routes, controller and templates made the project much easier to put together. I learned a lot about the power and versatility of angular in handling all the interfaces of the web app. Angular will continue to play a major role in my future projects and I look forward to using it again.
+I was really happy with the way this project turned out. Angular provided me with a very effective solution to making the Bloc Jams app work like a native app. The use of routes, controller and templates made the project much easier to put together. I learned a lot about the power and versatility of angular in handling all the interfaces of the web app. Angular will continue to play a major role in my future projects and I look forward to using it again.
 
