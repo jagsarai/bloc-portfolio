@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blocpedia
-thumbnail-path: img/landing.png
+thumbnail-path: img/Blocpedia-Main.png
 short-description: Blocpedia is an alternative take on Wikipedia.
 
 ---
