@@ -93,14 +93,18 @@ After running rspec and using local testing, Blocpeida works just as expected. U
 
 
 ![]({{site.baseurl}}/img/Blocpedia-Signin.png) 
+
 ![]({{site.baseurl}}/img/Blocpedia-Main.png) 
-![]({{site.baseurl}}/img/Blocpedia-All-Wikis.png) 
+
+![]({{site.baseurl}}/img/Blocpedia-All-Wikis.png)
+
 ![]({{site.baseurl}}/img/Blocpedia-New-Wikis.png) 
+
 ![]({{site.baseurl}}/img/Blocpedia-Edit-Wikis.png) 
 
 
 ## Conclusion 
 
-The project was really engaging and taught me a lot about Rails. This was my first Rails project, so there was a steep learning curve, but I was surprised with how easy and effective gems can be in simplifying our code and letting us focus in on the core direction of our project. This like user authentication and password recovery are made simple with gems like Devise. Pundit was a great tool in aiding with user permissions and access. Active Record provided easy database relation management. Overall, this was a fun project. 
+The project was really engaging and taught me a lot about Rails. This was my first Rails project, so there was a steep learning curve, but I was surprised with how easy and effective gems can be in simplifying our code and letting us focus in on the core direction of our project. This like user authentication and password recovery are made simple with gems like Devise. Pundit was a great tool in aiding with user permissions and access. Active Record provided easy database relation management. Overall, this was a fun project. Here is the [Github code](https://github.com/jagsarai/blocpedia) 
 
 
