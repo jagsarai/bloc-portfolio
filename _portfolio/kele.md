@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kele
-thumbnail-path: img/Blocpedia-Main.png
+thumbnail-path: img/Kele-Main.png
 short-description: Kele is a Ruby Gem API client to access the Bloc API
 
 ---
